@@ -4,11 +4,11 @@
 📌 Store Background
 
 A retail store chain records daily sales transactions, capturing:
-Order details
-Customer information
-Product categories
-Order timings
-Delivery/Order status
+- Order details
+- Customer information
+- Product categories
+- Order timings
+- Delivery/Order status
 
 The goal is to leverage data for:
 ✅ Optimizing operations
