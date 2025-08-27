@@ -19,10 +19,10 @@ The goal is to leverage data for:
 
 The business currently lacks visibility into:
 
-- 🔹  Which products sell the most
-- 🔹  Customer buying preferences
-- 🔹  Items contributing the highest profit
-- 🔹  Delivery/operational inefficiencies
+-  Which products sell the most
+-  Customer buying preferences
+-  Items contributing the highest profit
+-  Delivery/operational inefficiencies
 
 ⚠️ Impact
 
